@@ -1,1 +1,1 @@
-# game_dinosaur
+# game_chess
